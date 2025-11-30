@@ -1,6 +1,8 @@
 🦝 浣熊 vs 狸貓 AI 辨識器 (ResNet18 + Grad-CAM 可解釋性)
 這是一個深度學習專題實作，旨在建立一個能準確區分浣熊 (Raccoon) 與 狸貓 (Tanuki/Raccoon Dog) 的圖像分類器。由於這兩種動物外型相似，容易被大眾混淆，本專案屬於具有挑戰性的細粒度分類 (Fine-grained Classification) 任務。
 專案已成功部署於 Streamlit Cloud 上，提供一個友善的網頁應用介面。
+https://hw4-deep-learning-aigc-c6vaszbyf3vzqdcamkymi2.streamlit.app/
+
 🌟 核心功能 (Features)
 本分類器除了基礎的圖像辨識功能外，還加入了進階的解釋性 AI (XAI) 與可靠性判斷：
 1. 三類分類
